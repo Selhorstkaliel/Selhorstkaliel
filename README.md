@@ -44,7 +44,9 @@ I am looking for new opportunities and am ready to contribute to challenging pro
 </div>
 
 #
-
+<h2 align="left">🌐Languages I Speak:</h2>
+<p align="left">🇧🇷 Portuguese (native)<br>🇺🇸 English (B1)<br> 🇮🇹 Italian (B2)<br> 🇩🇪 German (beginner)<br> 🇷🇺 Russian (beginner)</p>
+#
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
   <br>
