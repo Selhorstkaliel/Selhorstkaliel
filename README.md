@@ -93,10 +93,16 @@ I am looking for new opportunities and am ready to contribute to challenging pro
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
   <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Selhorstkaliel&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=Ff0000&text_color=FFF&border_radius=3&border_color=Ff0000&icon_color=Ff0000&theme=jolly" alt="GitHub stats">
+ <img src="https://github-readme-stats.vercel.app/api?username=selhorstkaliel&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&line_height=25&hide=issues&bg_color=000&title_color=Ff0000&text_color=FFF&border_radius=3&border_color=Ff0000&icon_color=Ff0000&theme=jolly&locale=en&hide_border=false"
+  height="150"
+  alt="stats graph"/>
+
 
   <a href="https://github.com/Selhorstkaliel/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Selhorstkaliel&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=Ff0000&hide=html,scss,less&bg_color=000&text_color=FFF&border_radius=3&border_color=Ff0000&count_private=true" alt="Most Used Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Selhorstkaliel&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=Ff0000&hide=html,scss,less&bg_color=000&text_color=FFF&border_radius=3&border_color=Ff0000"
+  height="150"
+  alt="languages graph"/>
+
   </a>
 </div>
 
