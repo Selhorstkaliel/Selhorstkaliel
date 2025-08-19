@@ -86,7 +86,7 @@ I am looking for new opportunities and am ready to contribute to challenging pro
 #
 
 <h2 align="left">🌐Languages I Speak:</h2>
-<p align="left">🇧🇷 Portuguese (native)<br>🇺🇸 English (B1)<br> 🇮🇹 Italian (B2)<br> 🇩🇪 German (beginner)<br> 🇷🇺 Russian (beginner)</p>
+<p align="left">🇧🇷 Portuguese (native)<br>🇺🇸 English (B1)<br> 🇮🇹 Italian (B2)<br> 🇩🇪 German (beginner)<br> 🇷🇺 Russian (B2)</p>
 
 
 #
