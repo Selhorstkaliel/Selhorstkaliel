@@ -13,12 +13,12 @@
 #
 
 <p align="center">
-  <b>Software Developer | Backend | Web Applications</b>
+  <b>Backend Developer | APIs | Automation | Web Applications</b>
 </p>
 
 <p align="center">
   Computer Science student at <b>UNIESP</b>, focused on backend development, APIs, automation and scalable systems.<br>
-  I build projects using <b>Java, JavaScript, Python and SQL</b>, always improving my skills to create efficient and useful solutions.
+  I build projects using <b>Java, JavaScript, Python and SQL</b>, always aiming to create efficient, structured and useful solutions.
 </p>
 
 #
@@ -65,10 +65,21 @@
 
 #
 
+<h3 align="left">Currently Learning ~</h3>
+
+<p align="left">
+  • Backend Architecture<br>
+  • System Design<br>
+  • Microservices<br>
+  • Software Security
+</p>
+
+#
+
 <h3 align="left">Featured Projects ~</h3>
 
 - [**TechJur**](https://github.com/Selhorstkaliel/pjt-TechJur)  
-  Legal tech project focused on process organization and intelligent legal data analysis.
+  Legal tech project focused on legal process organization and intelligent data analysis.
 
 - [**Personal Trainer Backend**](https://github.com/Selhorstkaliel/Personal-Trainer-Backend)  
   Backend application for workout and user management.
